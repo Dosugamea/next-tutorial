@@ -1,6 +1,6 @@
-# sonolus-uploader2
-This is frontend for sonolus-fastapi.
+# Next-Blog-Tutorial
 
+This is next tutorial page written with typescript.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
